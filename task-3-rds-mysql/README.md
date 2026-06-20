@@ -89,8 +89,3 @@ Add all screenshots in the screenshots folder.
 - Security Group Configuration
 - MySQL Administration
 - Cloud Database Management
-
-## Author
-
-Midhun Kumar
-DecodeLabs Cloud Computing Internship
