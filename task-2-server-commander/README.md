@@ -59,26 +59,6 @@ sudo systemctl enable nginx
 
 ---
 
-## Screenshots
-
-### EC2 Instance
-
-![EC2](screenshots/ec2-instance.png)
-
-### Security Group
-
-![SG](screenshots/security-group.png)
-
-### SSH Login
-
-![SSH](screenshots/ssh-login.png)
-
-### Final Website
-
-![Website](screenshots/final-website.png)
-
----
-
 ## Outcome
 
 Successfully deployed a static website on AWS EC2
