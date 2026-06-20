@@ -122,6 +122,14 @@ task-1-s3-static-portfolio/
 │   └── Midhun_Kumar_Resume.pdf
 ```
 
+## Live Demo
+
+**Portfolio Website:**
+http://midhun-cloud-portfolio.s3-website.ap-south-1.amazonaws.com/
+
+You can access the deployed portfolio website hosted on AWS S3 Static Website Hosting using the above URL.
+
+
 ## Author
 
 **Midhun Kumar V**
